@@ -20,4 +20,9 @@ for i in range(-3, 4):
 for i in range(1,10):
     print('*/' *min(i, 10 - i))
 
-    
+for i in range(1, 10):
+    print ('#' *(+i))
+"""    if (i==5):
+        print ("@")
+    else:
+        print ('%')"""
